@@ -20,7 +20,6 @@
 - :school: I am a `Graduated Student` from Faculty of Informatics Systems Engineering at University of Sonora.
 - :technologist: I enjoy using Software as a solution for every `Problem`.
 - :student: I'm always taking courses from `Platzi` & `Udemy`.
-- :thinking: I’m open for: `Software Engineer` or a new `job opportunity`.
 - :nerd_face: Always `learning new things`.
 
 <br>
