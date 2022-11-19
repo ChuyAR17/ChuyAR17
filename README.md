@@ -46,8 +46,12 @@
     <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-blue?logo=typescript&logoColor=white">
   </a>
   &emsp;
-   <a href="https://reactjs.org/" target="_blank">
+  <a href="https://reactjs.org/" target="_blank">
     <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-blue?logo=react&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://angular.io/" target="_blank">
+    <img alt="Angular" src="https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white">
   </a>
   &emsp;
    <a href="https://reactnative.dev/" target="_blank">
